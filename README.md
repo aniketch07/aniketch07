@@ -22,6 +22,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketch07&layout=compact&theme=radical" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aniketch07&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/?username=aniketch07&theme=react-dark&bg_color=141321&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
 ## 📌 Projects
 
 **Kafka-Based Distributed Messaging System** — Rust, Tokio, Apache Kafka, WebSockets
