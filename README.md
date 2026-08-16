@@ -5,6 +5,33 @@
 <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, I'm Aniket
     Chaudhary</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/aniketch07?style=for-the-badge&logo=github&color=181717" />
+  <img src="https://img.shields.io/github/stars/aniketch07?style=for-the-badge&logo=github&color=181717" />
+  <img src="https://img.shields.io/github/repos/aniketch07?style=for-the-badge&logo=github&color=181717" />
+  <img src="https://komarev.com/ghpvc/?username=aniketch07&style=for-the-badge&color=181717" />
+  <a href="https://www.linkedin.com/in/aniket-chaudhary-a8b261264/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:caniket1307@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anchor-3B82F6?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketch07&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketch07&layout=compact&theme=radical" width="48%" />
+</p>
+
 <h3 align="center"></h3>
 <p style = "line-height: 80%">
 
@@ -14,8 +41,8 @@ using range of blockchain technologies
 </p>
 <br>
 <img align="right"
-          src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
-          alt="Blockchain Developer Image" 
+          src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
+          alt="Blockchain Developer Image"
           width="300""
         />
 
@@ -31,13 +58,7 @@ using range of blockchain technologies
           <li>📫 Reach me at <strong>caniket1307@gmail.com</strong></li>
         </ul>
       </div>
-   
-    
 
-
-
-
-  
  <br/>
 You can connect with me here- <br>
 
@@ -71,14 +92,3 @@ You can connect with me here- <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60px" /> &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
-
-<br>
-<p align=center >
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketch07&show_icons=true&locale=en&layout=compact&theme=dark" 
-    alt="AniketChaudhary" 
-    style="width: 500px; height: 200px;" 
-  />
-</a>
