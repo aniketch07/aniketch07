@@ -1,7 +1,12 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000" height="350">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&section=header" width="1000" />
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, I'm Aniket Chaudhary</h1>
-<h3 align="center">Backend / Distributed Systems Software Engineer | Rust • Node.js • Kafka</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+%2F+Distributed+Systems+Engineer;Rust+%E2%80%A2+Node.js+%E2%80%A2+Kafka;Solana+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Event-Driven+Architecture+%E2%80%A2+Async+I%2FO;AI+Agent+Evaluation+%E2%80%A2+RL+Task+Authoring&center=true&width=600&height=60&font=Fira+Code&size=19&duration=2800&pause=700&color=9745F5&vCenter=true" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/aniketch07?style=for-the-badge&logo=github&color=181717" />
