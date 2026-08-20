@@ -49,6 +49,14 @@
 - 4-tier RBAC (Super Admin / Institute Admin / Teacher / Student), JWT + bcrypt, video learning w/ progress tracking, MCQ engine with auto-grading, live-class scheduling.
 - Live: https://edustack-rouge.vercel.app
 
+## 🌐 Open Source Contributions
+
+| Repository | Pull Request | Change |
+|---|---|---|
+| [static-web-server](https://github.com/static-web-server/static-web-server) | [#738](https://github.com/static-web-server/static-web-server/pull/738) | Directory listing format negotiation via `Accept` header |
+| [holochain](https://github.com/holochain/holochain) | [#5955](https://github.com/holochain/holochain/pull/5955) | `AddAgentInfo` on the app interface, with app-boundary enforcement |
+| [corsair](https://github.com/corsairdev/corsair) | [#841](https://github.com/corsairdev/corsair/pull/841) | Fail-closed webhook secret handling (error instead of silent no-op) |
+
 ## 🛠️ Tech Stack
 
 **Languages**
