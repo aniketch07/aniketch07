@@ -53,9 +53,9 @@
 
 | Repository | Pull Request | Change |
 |---|---|---|
-| [static-web-server](https://github.com/static-web-server/static-web-server) | [#738](https://github.com/static-web-server/static-web-server/pull/738) | Directory listing format negotiation via `Accept` header |
-| [holochain](https://github.com/holochain/holochain) | [#5955](https://github.com/holochain/holochain/pull/5955) | `AddAgentInfo` on the app interface, with app-boundary enforcement |
-| [corsair](https://github.com/corsairdev/corsair) | [#841](https://github.com/corsairdev/corsair/pull/841) | Fail-closed webhook secret handling (error instead of silent no-op) |
+| [static-web-server](https://github.com/static-web-server/static-web-server) <br> <img src="https://img.shields.io/github/stars/static-web-server/static-web-server?style=flat&label=stars&labelColor=141321&color=9745F5" /> <img src="https://img.shields.io/github/forks/static-web-server/static-web-server?style=flat&label=forks&labelColor=141321&color=9745F5" /> | [#738](https://github.com/static-web-server/static-web-server/pull/738) | Directory listing format negotiation via `Accept` header |
+| [holochain](https://github.com/holochain/holochain) <br> <img src="https://img.shields.io/github/stars/holochain/holochain?style=flat&label=stars&labelColor=141321&color=9745F5" /> <img src="https://img.shields.io/github/forks/holochain/holochain?style=flat&label=forks&labelColor=141321&color=9745F5" /> | [#5955](https://github.com/holochain/holochain/pull/5955) | `AddAgentInfo` on the app interface, with app-boundary enforcement |
+| [corsair](https://github.com/corsairdev/corsair) <br> <img src="https://img.shields.io/github/stars/corsairdev/corsair?style=flat&label=stars&labelColor=141321&color=9745F5" /> <img src="https://img.shields.io/github/forks/corsairdev/corsair?style=flat&label=forks&labelColor=141321&color=9745F5" /> | [#841](https://github.com/corsairdev/corsair/pull/841) | Fail-closed webhook secret handling (error instead of silent no-op) |
 
 ## 🛠️ Tech Stack
 
